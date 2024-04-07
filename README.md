@@ -18,3 +18,7 @@ Then you have to run dataloadMain.py file from dataload folder to achieve the ET
 
 After you have to run view.py file from client folder to open the application's main screen.
 
+## Application's options
+1) Choose the type of plot.
+2) Choose countries for plots. <br /> (1 or more countries for timeline and bar plot, 1 country for scatter plot).
+3) Choose indicators for respective statistics. <br /> (1 or more indicators for timeline and bar plot, 2 indicators for scatter plot).
