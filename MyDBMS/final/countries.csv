@@ -1,0 +1,26 @@
+Country Code,Region,IncomeGroup,TableName,SpecialNotes
+AGO,Sub-Saharan Africa,Lower middle income,Angola,
+ARG,Latin America & Caribbean,Upper middle income,Argentina,
+AUS,East Asia & Pacific,High income,Australia,Fiscal year end: June 30; reporting period for national accounts data: FY.
+AUT,Europe & Central Asia,High income,Austria,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 13.7603 Austrian schilling. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+BGD,South Asia,Lower middle income,Bangladesh,Fiscal year end: June 30; reporting period for national accounts data: FY.
+BRA,Latin America & Caribbean,Upper middle income,Brazil,
+CMR,Sub-Saharan Africa,Lower middle income,Cameroon,
+COL,Latin America & Caribbean,Upper middle income,Colombia,
+CUB,Latin America & Caribbean,Upper middle income,Cuba,
+ECU,Latin America & Caribbean,Upper middle income,Ecuador,
+EGY,Middle East & North Africa,Lower middle income,"Egypt, Arab Rep.",Fiscal year end: June 30; reporting period for national accounts data: FY for years 1980 and after. The data from 1973 to 1979 are calendar year data.
+ESP,Europe & Central Asia,High income,Spain,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 166.386 Spanish peseta. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+FJI,East Asia & Pacific,Upper middle income,Fiji,
+GRC,Europe & Central Asia,High income,Greece,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 340.75 Greek drachma. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+IND,South Asia,Lower middle income,India,Fiscal year end: March 31; reporting period for national accounts data: FY.
+JPN,East Asia & Pacific,High income,Japan,Fiscal year end: March 31; reporting period for national accounts data: CY.
+NLD,Europe & Central Asia,High income,Netherlands,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 2.20371 Netherlands guilder. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+POL,Europe & Central Asia,High income,Poland,
+PRT,Europe & Central Asia,High income,Portugal,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 200.482 Portuguese escudo. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+RUS,Europe & Central Asia,Upper middle income,Russian Federation,
+SGP,East Asia & Pacific,High income,Singapore,Fiscal year end: March 31; reporting period for national accounts data: CY.
+SWE,Europe & Central Asia,High income,Sweden,Fiscal year end: June 30; reporting period for national accounts data: CY.
+THA,East Asia & Pacific,Upper middle income,Thailand,Fiscal year end: September 30; reporting period for national accounts data: CY.
+URY,Latin America & Caribbean,High income,Uruguay,
+VEN,Latin America & Caribbean,,"Venezuela, RB",
