@@ -7,7 +7,7 @@ A project from Computer Science and Engineering department of the University of 
 An application to visualize statistics of 25 different countries using ETL procedure 
 to extract, transform and load data into a database. 
 
-This application uses customtkinter framework for GUI and sql for database management.
+This application uses customtkinter framework for GUI and MySql for database management.
 
 Timeline, bar and scatter plots are used for statistic visualization.
 
