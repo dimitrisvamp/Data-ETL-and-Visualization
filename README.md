@@ -10,3 +10,4 @@ This application uses customtkinter framework for GUI and sql for database manag
 
 Timeline, bar and scatter plots are used for statistic visualization.
 
+d
