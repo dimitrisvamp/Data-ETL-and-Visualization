@@ -1,4 +1,4 @@
-# Data-ETL-and-Visualization
+# Data-ETL-and-Statistic-Visualization
 
 ## University project
 A project from Computer Science and Engineering department of the University of Ioannina (UOI).
