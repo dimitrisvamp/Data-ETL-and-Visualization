@@ -21,4 +21,8 @@ After you have to run view.py file from client folder to open the application's 
 ## Application's options
 1) Choose the type of plot.
 2) Choose countries for plots. <br /> (1 or more countries for timeline and bar plot, 1 country for scatter plot).
-3) Choose indicators for respective statistics. <br /> (1 or more indicators for timeline and bar plot, 2 indicators for scatter plot).
+3) Choose indicators for their respective statistics. <br /> (1 or more indicators for timeline and bar plot, 2 indicators for scatter plot).
+4) Choose the start (year) of the visualization period.
+5) Choose the end (year) of the visualization period.
+6) Choose according to how many years the time period will be for visualization.
+7) Visualize the the statistics of your options.
