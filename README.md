@@ -1,4 +1,4 @@
-# Data-ETL-and-Statistic-Visualization
+# Statistic-Visualization-Data-ETL-Procedure
 
 ## University project
 A project from Computer Science and Engineering department of the University of Ioannina (UOI).
