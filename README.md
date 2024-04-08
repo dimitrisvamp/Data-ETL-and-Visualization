@@ -25,4 +25,4 @@ After you have to run view.py file from client folder to open the application's 
 4) Choose the start (year) of the visualization period.
 5) Choose the end (year) of the visualization period.
 6) Choose according to how many years the time period will be for visualization.
-7) Visualize the the statistics of your options.
+7) Visualize the statistics of your options.
